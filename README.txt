@@ -1,0 +1,1 @@
+This is a personal reference for how to create projects using various technologies and languages. Open to use.
