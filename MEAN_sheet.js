@@ -266,3 +266,4 @@ ng g c [[component_name]]//'c' is short for 'component'
 
 "Generate Class for Angular App"
 ng g class [[class_name]]//do NOT shorten 'class' to 'c'
+//or else you will generate a component instead of a class
